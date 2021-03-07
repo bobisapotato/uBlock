@@ -371,6 +371,10 @@
     "message": "Blokiraj CSP poročila",
     "description": "background information: https://github.com/gorhill/uBlock/issues/3150"
   },
+  "settingsUncloakCnamePrompt": {
+    "message": "Uncloak canonical names",
+    "description": "background information: https://github.com/uBlockOrigin/uBlock-issues/issues/1513"
+  },
   "settingsLastRestorePrompt": {
     "message": "Zadnja obnovitev:",
     "description": "English: Last restore:"
@@ -556,7 +560,7 @@
     "description": "English: label for sort option."
   },
   "rulesSortByType": {
-    "message": "Rule type",
+    "message": "Tip pravila",
     "description": "English: a sort option for list of rules."
   },
   "rulesSortBySource": {
@@ -1028,7 +1032,7 @@
     "description": ""
   },
   "contextMenuBlockElementInFrame": {
-    "message": "Block element in frame...",
+    "message": "Blokiraj element v okvirju",
     "description": "An entry in the browser's contextual menu"
   },
   "contextMenuTemporarilyAllowLargeMediaElements": {
